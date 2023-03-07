@@ -5,8 +5,8 @@ Run
 ------------
 	python main.py
 
-If have error: 
-	Go to douyin.com -> devtool -> application -> cookies -> find `s_v_web_id` in cookies copy value and paste in line 15
+If have error: Go to douyin.com -> devtool -> application -> cookies -> find `s_v_web_id` in cookies copy value and paste in line 15
+
 Remember change link profile of user and enjoy it !!!
 
 Another EndPoint
